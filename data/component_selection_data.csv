@@ -1,0 +1,10 @@
+Category,Component,Specification,Continuous_Current_A,Peak_Current_A,KV_Rating,Weight_g,Cost_USD,Selected
+ESC,Simonk 30A,30A continuous,30,40,,28,12.5,Yes
+ESC,BLHeli 20A,20A continuous,20,25,,22,9.8,No
+ESC,Hobbywing 40A,40A continuous,40,55,,35,18.2,No
+Motor,A2212 1000KV,BLDC brushless,,,,53,8.5,No
+Motor,A2212 1400KV,BLDC brushless,,,1400,52,9.2,Yes
+Motor,MT2204 2300KV,BLDC brushless,,,2300,28,11.5,No
+MCU,Arduino Uno,ATmega328P 16MHz,,,,25,22.0,Yes
+MCU,Raspberry Pi Zero,ARM Cortex-A53,,,,9,15.0,No
+MCU,ESP32,Xtensa LX6 240MHz,,,,4,6.5,No

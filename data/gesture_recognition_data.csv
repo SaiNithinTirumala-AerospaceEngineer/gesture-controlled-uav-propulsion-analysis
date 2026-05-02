@@ -1,0 +1,9 @@
+Gesture,Command,FB_Method_Rate_pct,ML_Method_Rate_pct,Flying_UAV_Rate_pct,Sensor_Value_Low,Sensor_Value_High
+Up,Ascend / Increase throttle,92.5,95.0,88.0,800,900
+Down,Descend / Decrease throttle,90.0,93.5,85.5,200,300
+Forward,Pitch forward,88.5,92.0,84.0,500,600
+Backward,Pitch backward,87.0,91.5,83.0,400,500
+Left,Roll left,89.5,93.0,85.0,100,200
+Right,Roll right,90.5,94.0,86.0,700,800
+Hover,Hold position,94.0,96.5,90.5,450,550
+Land,Initiate landing sequence,95.5,97.0,91.0,0,100
